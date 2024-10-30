@@ -75,6 +75,7 @@ img {
     gap: 1em;
 }
 .card {
+    background-color: #fff;
     max-width: 286.575px;
     min-height:225.123px;
     padding: 1.5em;
